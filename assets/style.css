@@ -2,6 +2,11 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
   }
+
+header {
+    color: rgb(19, 46, 46);
+    background-color: #baa020;
+}
   
   textarea {
     background: transparent;
